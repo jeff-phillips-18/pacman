@@ -22,7 +22,7 @@ spec:
   - name: git-url
     value: '{{repo_url}}'
   - name: output-image
-    value: quay.io/redhat-user-workloads-stage/jephilli-tenant/test-application/pacman:{{revision}}
+    value: quay.io/redhat-user-workloads/jephilli-tenant/test-application/pacman:{{revision}}
   - name: path-context
     value: .
   - name: revision
