@@ -1,4 +1,4 @@
-FROM node:boron
+FROM node:^22.0.0
 
 MAINTAINER Ivan Font <ifont@redhat.com>
 
